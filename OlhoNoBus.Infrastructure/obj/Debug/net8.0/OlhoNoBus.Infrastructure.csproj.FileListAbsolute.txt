@@ -1,0 +1,17 @@
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.csproj.AssemblyReference.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.AssemblyInfo.cs
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Infrastructure.deps.json
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Infrastructure.runtimeconfig.json
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Infrastructure.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Infrastructure.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Core.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\bin\Debug\net8.0\OlhoNoBus.Core.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBu.82928368.Up2Date
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\refint\OlhoNoBus.Infrastructure.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.genruntimeconfig.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\ref\OlhoNoBus.Infrastructure.dll

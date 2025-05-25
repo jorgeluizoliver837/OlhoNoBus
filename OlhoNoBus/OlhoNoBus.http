@@ -1,0 +1,6 @@
+@OlhoNoBus_HostAddress = http://localhost:5036
+
+GET {{OlhoNoBus_HostAddress}}/olhonobus/
+Accept: application/json
+
+###

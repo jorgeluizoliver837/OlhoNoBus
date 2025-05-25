@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KQHcua1wlmJohyUQaiZRBOTAMkOalWvEhxTHKyXZr1Y=",
+  "Source": "OlhoNoBus.API",
+  "BasePath": "_content/OlhoNoBus.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
