@@ -15,3 +15,4 @@ C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\refint\OlhoNoBus.Infr
 C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.pdb
 C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.genruntimeconfig.cache
 C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\ref\OlhoNoBus.Infrastructure.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Infrastructure\obj\Debug\net8.0\OlhoNoBus.Infrastructure.sourcelink.json

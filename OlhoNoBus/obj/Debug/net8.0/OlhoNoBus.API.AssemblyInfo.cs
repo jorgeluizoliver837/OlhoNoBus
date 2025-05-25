@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlhoNoBus.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79506256ecf92a0450d36648f92817705739f4ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlhoNoBus.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlhoNoBus.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

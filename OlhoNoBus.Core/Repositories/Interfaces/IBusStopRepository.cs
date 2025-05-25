@@ -11,7 +11,7 @@ public interface IBusStopRepository
 
     public Task<bool>  Delete(long id);
 
-    public Task<bool> Updade(long id);
+    public Task<bool> Update(BusStop busStop);
 
     public Task<BusStop> GetById(long id);
 

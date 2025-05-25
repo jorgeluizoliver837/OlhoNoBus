@@ -9,3 +9,4 @@ C:\DEV\OlhoNoBus\OlhoNoBus.Core\obj\Debug\net8.0\OlhoNoBus.Core.dll
 C:\DEV\OlhoNoBus\OlhoNoBus.Core\obj\Debug\net8.0\refint\OlhoNoBus.Core.dll
 C:\DEV\OlhoNoBus\OlhoNoBus.Core\obj\Debug\net8.0\OlhoNoBus.Core.pdb
 C:\DEV\OlhoNoBus\OlhoNoBus.Core\obj\Debug\net8.0\ref\OlhoNoBus.Core.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Core\obj\Debug\net8.0\OlhoNoBus.Core.sourcelink.json
