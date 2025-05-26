@@ -50,7 +50,7 @@ public class BusLineRepository : IBusLineRepository
 
         List<BusLine> busLines = new List<BusLine>();
 
-        busLines = await _context.BusLine.ToListAsync();
+        busLines = await _context.BusLine.Include(p => p.BusStops).ToListAsync();
 
         return busLines;
 

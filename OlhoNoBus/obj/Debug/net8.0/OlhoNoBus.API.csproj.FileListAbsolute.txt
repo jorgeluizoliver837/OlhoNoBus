@@ -175,3 +175,8 @@ C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Works
 C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\DEV\OlhoNoBus\OlhoNoBus\obj\Debug\net8.0\OlhoNoBus.API.MvcApplicationPartsAssemblyInfo.cs
 C:\DEV\OlhoNoBus\OlhoNoBus\obj\Debug\net8.0\OlhoNoBus.API.sourcelink.json
+C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\MediatR.dll
+C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\OlhoNoBus.Application.dll
+C:\DEV\OlhoNoBus\OlhoNoBus\bin\Debug\net8.0\OlhoNoBus.Application.pdb

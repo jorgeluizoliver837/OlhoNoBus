@@ -60,6 +60,49 @@
           }
         }
       },
+      "MediatR/12.5.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "[2.0.1, 3.0.0)",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "11.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
         "type": "package",
         "compile": {
@@ -1683,6 +1726,21 @@
           }
         }
       },
+      "OlhoNoBus.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MediatR": "12.5.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "OlhoNoBus.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OlhoNoBus.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OlhoNoBus.Application.dll": {}
+        }
+      },
       "OlhoNoBus.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1765,6 +1823,50 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MediatR/12.5.0": {
+      "sha512": "vqm2H8/nqL5NAJHPhsG1JOPwfkmbVrPyh4svdoRzu+uZh6Ex7PRoHBGsLYC0/RWCEJFqD1ohHNpteQvql9OktA==",
+      "type": "package",
+      "path": "mediatr/12.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "gradient_128x128.png",
+        "lib/net6.0/MediatR.dll",
+        "lib/net6.0/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.12.5.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/2.0.1": {
+      "sha512": "FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "type": "package",
+      "path": "mediatr.contracts/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.2.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+      "sha512": "jfD2NBYvP+HiUil2DWfM4bn+bCLp4H2xvoc9aorcnn2Jpgz7Ey8RyYMpgqeF3bs6CP6t8pzb6WkF5NFF/1RLHA==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
@@ -5142,6 +5244,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OlhoNoBus.Application/1.0.0": {
+      "type": "project",
+      "path": "../OlhoNoBus.Application/OlhoNoBus.Application.csproj",
+      "msbuildProject": "../OlhoNoBus.Application/OlhoNoBus.Application.csproj"
+    },
     "OlhoNoBus.Core/1.0.0": {
       "type": "project",
       "path": "../OlhoNoBus.Core/OlhoNoBus.Core.csproj",
@@ -5155,7 +5262,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "MediatR >= 12.5.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.5",
+      "OlhoNoBus.Application >= 1.0.0",
       "OlhoNoBus.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -5193,6 +5302,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\DEV\\OlhoNoBus\\OlhoNoBus.Application\\OlhoNoBus.Application.csproj": {
+              "projectPath": "C:\\DEV\\OlhoNoBus\\OlhoNoBus.Application\\OlhoNoBus.Application.csproj"
+            },
             "C:\\DEV\\OlhoNoBus\\OlhoNoBus.Infrastructure\\OlhoNoBus.Infrastructure.csproj": {
               "projectPath": "C:\\DEV\\OlhoNoBus\\OlhoNoBus.Infrastructure\\OlhoNoBus.Infrastructure.csproj"
             }
@@ -5215,6 +5327,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.5.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

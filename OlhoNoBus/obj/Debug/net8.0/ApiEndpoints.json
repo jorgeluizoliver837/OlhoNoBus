@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "OlhoNoBus.API.Controllers.BusLineController",
+    "Method": "GetAll",
+    "RelativePath": "api/BusLine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,16 @@
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\bin\Debug\net8.0\OlhoNoBus.Application.deps.json
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\bin\Debug\net8.0\OlhoNoBus.Application.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\bin\Debug\net8.0\OlhoNoBus.Application.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\bin\Debug\net8.0\OlhoNoBus.Core.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\bin\Debug\net8.0\OlhoNoBus.Core.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.csproj.AssemblyReference.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.AssemblyInfoInputs.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.AssemblyInfo.cs
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.csproj.CoreCompileInputs.cache
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.sourcelink.json
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBu.5E59A0B1.Up2Date
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\refint\OlhoNoBus.Application.dll
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\OlhoNoBus.Application.pdb
+C:\DEV\OlhoNoBus\OlhoNoBus.Application\obj\Debug\net8.0\ref\OlhoNoBus.Application.dll
